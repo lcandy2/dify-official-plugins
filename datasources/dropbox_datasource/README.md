@@ -131,7 +131,8 @@ In the "Permissions" tab, enable these scopes:
 
 ### Requirements
 - Python 3.12+
-- Dify Plugin SDK 0.5.0b14+
+- Dify >= 2.0.0
+- Dify Plugin SDK 0.5.0b14+ (package: `dify-plugins`)
 - Dropbox Python SDK 12.0.2+
 
 ### API Limitations
